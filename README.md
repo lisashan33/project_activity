@@ -36,7 +36,7 @@
 │   ├── media.png                     # 媒體
 │   └── winner.png                    # 得獎者
 └── winner\_ppt/                      # 得獎者 PPT 背景
-└── bg.jpg                            # 背景圖片
+    └── bg.jpg                        # 背景圖片
 
 ````
 
