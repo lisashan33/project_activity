@@ -63,7 +63,7 @@ pip install Pillow pandas
 
 可調整內容包含：
 
-* 字體大小與顏色
+* 字體大小與[顏色(可參考連結)](https://www.toodoo.com/db/color.html)
 * 文字寫入位置座標
 
 ---
